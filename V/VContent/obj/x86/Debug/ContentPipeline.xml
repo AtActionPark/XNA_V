@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>WhitePixel.bmp</Source>
+      <Name>WhitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\WhitePixel.xnb</Output>
+      <Time>2013-09-13T14:45:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>whiteCircle.bmp</Source>
+      <Name>whiteCircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\whiteCircle.xnb</Output>
+      <Time>2013-09-13T15:03:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>RightArrow.bmp</Source>
+      <Name>RightArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\RightArrow.xnb</Output>
+      <Time>2013-09-20T14:43:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LeftArrow.bmp</Source>
+      <Name>LeftArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\LeftArrow.xnb</Output>
+      <Time>2013-09-20T14:45:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomCombine.fx</Source>
+      <Name>BloomCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\BloomCombine.xnb</Output>
+      <Time>2013-09-13T16:10:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>BloomExtract.fx</Source>
+      <Name>BloomExtract</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\BloomExtract.xnb</Output>
+      <Time>2013-09-13T16:10:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>GaussianBlur.fx</Source>
+      <Name>GaussianBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\GaussianBlur.xnb</Output>
+      <Time>2013-09-13T16:10:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Effect1.fx</Source>
+      <Name>Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\Effect1.xnb</Output>
+      <Time>2013-09-18T14:59:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-09-16T13:39:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SpriteFont2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\SpriteFont2.xnb</Output>
+      <Time>2013-09-16T14:24:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont3.spritefont</Source>
+      <Name>SpriteFont3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\SpriteFont3.xnb</Output>
+      <Time>2013-09-18T12:19:40+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\VContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\VContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\V\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-12T20:01:28.7791865+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

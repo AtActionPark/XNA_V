@@ -1,0 +1,11 @@
+Content\WhitePixel.xnb
+Content\whiteCircle.xnb
+Content\RightArrow.xnb
+Content\LeftArrow.xnb
+Content\BloomCombine.xnb
+Content\BloomExtract.xnb
+Content\GaussianBlur.xnb
+Content\Effect1.xnb
+Content\SpriteFont1.xnb
+Content\SpriteFont2.xnb
+Content\SpriteFont3.xnb

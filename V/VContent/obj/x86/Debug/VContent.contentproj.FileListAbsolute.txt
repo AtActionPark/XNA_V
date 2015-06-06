@@ -1,0 +1,2 @@
+C:\Documents and Settings\cmatheron\Mes documents\Visual Studio 2010\Projects\V\V\VContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\V\V\VContent\obj\x86\Debug\VContent.contentprojResolveAssemblyReference.cache
